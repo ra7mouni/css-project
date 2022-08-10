@@ -1,0 +1,77 @@
+
+.Nav-Bar{
+    margin-left: 100px;
+    width:1000px;
+    text-align: right;
+
+}
+body{
+    font-family: roboto;
+    background-color: rgb(178, 178, 178);
+}
+h1{
+    font-style:italic;
+    padding-left:100px;
+    font-weight: bolder;
+    font-size: 50px;
+}
+h3{
+    padding-left: 350px;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(37, 35, 55);
+}
+p{
+    padding-left: 350px;
+    font-style: normal;
+    font-weight:light;
+    font-size: 30px;
+    color: rgb(37, 35, 55);
+}
+h4{
+    font-size: 35px;
+    padding-left: 400px;
+    font-style: oblique;
+    font-weight: bold;
+    color: rgb(37, 35, 55);
+}
+
+.ena{
+    position: relative;
+   left: 1150px;
+   bottom: 200px;
+   top:150px
+   height: 300px;
+   width: 300px;
+}
+table{
+    margin-top: 100px;
+    font-size: 30px;
+    margin-bottom: 500px;
+}
+.instagram{
+    color:  rgb(37, 35, 55);
+    font-size: 25px;
+    padding-left: 350px;
+}
+label{
+    font-size: 25px;
+    color:  rgb(37, 35, 55);
+    padding-left: 350px;
+}
+input{
+    display: block;
+    margin-left: 350px;
+}
+#message{
+    height: 200px;
+    width: 450px;
+}
+button{
+    font-size: 30px;
+    position: relative;
+    left: 850px;
+    bottom: 70px;
+}
+
